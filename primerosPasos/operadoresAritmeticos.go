@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainn() {
 	var a, b float64
 
 	//Entrada por teclado
